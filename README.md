@@ -10,6 +10,7 @@
 
 This package will use **gmailr** so you need to set that up first.
 
+
 1.  Go to <https://console.developers.google.com/apis/library>
 
 2.  If you have more than one Google account, make sure you’re logged in
@@ -49,3 +50,7 @@ Click CREATE
 Download the .json file
 
 Click DONE
+
+6. Choose the "OAuth consent screen" tab on the left. Click "PUBLISH APP" under "Testing". Click "Confirm".
+
+Continue with Setup instructions the the [gmailr README.md](https://github.com/r-lib/gmailr) starting wtih "Tell gmailr where the JSON lives,..."
