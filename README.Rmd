@@ -15,6 +15,10 @@ knitr::opts_chunk$set(
 
 # surpriser
 
+requirements: Sanebox subscription, gmailr
+
+Do you have weekly tasks that you need to do but don't like the routine of doing them the same day every week? Then this package is for you. 
+
 <!-- badges: start -->
 <!-- badges: end -->
 
